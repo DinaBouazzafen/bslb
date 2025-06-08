@@ -1,10 +1,10 @@
 import './App.css';
-import P5Sketch from './p5Sketch.js';
+import BSLBHomepage from './homepage.js'; 
 
 function App() {
   return (
     <div className="App">
-      <P5Sketch />
+      <BSLBHomepage />
     </div>
   );
 }
